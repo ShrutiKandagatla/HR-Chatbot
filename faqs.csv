@@ -1,0 +1,11 @@
+question,answer,category
+"How do I download my payslip?","You can download your payslip from the Payslips section in the employee portal. Go to Payslips > Select month > Download.","Payroll"
+"How is HRA calculated?","House Rent Allowance (HRA) is usually a percentage of Basic salary and depends on your city classification. For detailed calculation, consult payroll.","Payroll"
+"What is CTC?","CTC stands for Cost to Company — the total amount the employer spends on an employee, including salary and benefits.","HR"
+"How many paid leaves do I have?","To check paid leaves, go to Leave Balance in the portal. If you provide your Employee ID, I can simulate a lookup.","Leave"
+"How do I apply for a leave?","You can apply for leave through the Leave Request feature in the portal: Leave > Apply > Select dates > Submit.","Leave"
+"What documents are required for onboarding?","Documents typically required: ID proof, address proof, educational certificates, PAN, bank details.","Onboarding"
+"Who do I contact for tax queries?","For tax-related queries, contact payroll@company.com or the payroll team; you can also check the Tax FAQs in the portal.","Tax"
+"How are overtime hours calculated?","Overtime is calculated based on your hourly rate and overtime multiplier as per company policy. Check the Timesheet for approvals.","Payroll"
+"My salary is incorrect, what should I do?","If your salary seems incorrect, please share the payslip month and the discrepancy detail; I'll guide you through verification steps: check configuration, attendance, and deductions.","Payroll"
+"How to update bank details?","Go to Profile > Bank Details > Edit. Enter account number and IFSC, then submit. The change will reflect after verification.","Profile"

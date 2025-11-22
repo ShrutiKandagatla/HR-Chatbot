@@ -1,0 +1,6 @@
+employee_id,name,department,paid_leaves,sick_leaves,location,role
+EMP10234,Riya Sharma,Finance,12,3,Hyderabad,Payroll Analyst
+EMP56789,Arjun Rao,HR,8,1,Bangalore,HR Coordinator
+EMP90877,Neha Verma,Tech,15,2,Pune,Software Engineer
+EMP77881,Kiran Das,Support,10,4,Chennai,Support Specialist
+EMP44112,Anjali Mehta,Admin,7,2,Hyderabad,Operations Analyst
